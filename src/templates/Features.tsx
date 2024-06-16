@@ -1,4 +1,11 @@
-const Features = () => {
+import axios from 'axios';
+
+const Features = async () => {
+  const response = await axios.get(
+    `${process.env.SERVICE_API_URL}/experiences/products`,
+  );
+  console.debug(response.data);
+
   const products = [
     {
       id: '1',
