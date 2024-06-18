@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/gabrielulbrich/tourin-frontend-2/compare/v1.1.0...v1.2.0) (2024-06-18)
+
+
+### Features
+
+* test ([2b85817](https://github.com/gabrielulbrich/tourin-frontend-2/commit/2b858172c1f0a49c9a13b0de8dddc9745f89a960))
+
 # [1.1.0](https://github.com/gabrielulbrich/tourin-frontend-2/compare/v1.0.0...v1.1.0) (2024-06-18)
 
 
