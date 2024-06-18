@@ -1,3 +1,15 @@
+# [1.1.0](https://github.com/gabrielulbrich/tourin-frontend-2/compare/v1.0.0...v1.1.0) (2024-06-18)
+
+
+### Features
+
+* deploy FE ([4ec2a95](https://github.com/gabrielulbrich/tourin-frontend-2/commit/4ec2a959991dcf4de56ed9721f6eeb357975dfe3))
+* deploy FE ([2de5f10](https://github.com/gabrielulbrich/tourin-frontend-2/commit/2de5f10a70b4729f56f0380e6f737fac80dd39af))
+* test ([6a4ad67](https://github.com/gabrielulbrich/tourin-frontend-2/commit/6a4ad6775ba35ef536c80018fbbf0aa4567b86b8))
+* test ([f76abc2](https://github.com/gabrielulbrich/tourin-frontend-2/commit/f76abc24e274dd9868f9a2c133f8044a7f6c5eab))
+* test ([6f02ca1](https://github.com/gabrielulbrich/tourin-frontend-2/commit/6f02ca1a47c00101cf4bc1a68095f80b5b7ba1d5))
+* test ([369065f](https://github.com/gabrielulbrich/tourin-frontend-2/commit/369065f84879628735ef82624d19c9d1f3bbdb8c))
+
 # 1.0.0 (2024-06-12)
 
 
